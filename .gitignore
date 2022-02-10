@@ -132,3 +132,4 @@ resources/movies_metadata.csv
 resources/ratings.csv
 ratings.csv
 movies_metadata.csv
+config.py
