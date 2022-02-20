@@ -128,7 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 resources/ratings.csv
-ratings.csv
-movies_metadata.csv
 wikipedia_clean_data.ipynb
 config.py
